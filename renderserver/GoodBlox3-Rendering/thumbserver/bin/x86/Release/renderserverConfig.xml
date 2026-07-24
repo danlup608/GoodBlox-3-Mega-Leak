@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<program>
+      <appLocation>RenderServer.exe</appLocation>
+      <scriptSignature>false</scriptSignature>
+<place_screenshot>
+      <offset_x>120</offset_x>
+      <offset_y>72</offset_y>
+      <res_x>1690</res_x>
+      <res_y>937</res_y>
+</place_screenshot>
+
+<model_screenshot>
+      <offset_x>487</offset_x>
+      <offset_y>135</offset_y>
+      <res_x>926</res_x>
+      <res_y>935</res_y>
+</model_screenshot>
+
+<thumbnail_view>
+      <pos_x>105</pos_x>
+      <pos_y>36</pos_y>
+</thumbnail_view>
+</program>
