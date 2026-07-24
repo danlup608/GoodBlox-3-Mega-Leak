@@ -1,4 +1,10 @@
-# GoodBlox-3
-The source and database to the revival GoodBlox 3, it uses laravel it is heavily Chat GPTed.
+# GoodBlox 3 Mega Leak
 
-## Please do not use this source code, for your own good.
+This leak contains:
+
+the source code (in laravel)
+the database
+the render server
+the launcher source
+
+## WARNING! Please do not use this source code, its heavily chat GPTed and most likely insecure.
